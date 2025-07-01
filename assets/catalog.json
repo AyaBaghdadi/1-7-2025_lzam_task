@@ -1,0 +1,122 @@
+[
+  {
+    "id": "p01",
+    "name": "Coffee",
+    "price": 2.50,
+    "image": "https://media.istockphoto.com/id/2165665322/photo/directly-above-shot-of-hands-holding-coffee-cups-on-table.jpg?s=2048x2048&w=is&k=20&c=Zqq5CW4rqkV_F1OOfX48wRA3eqpt_wjis4AH5739t_0="
+  },
+  {
+    "id": "p02",
+    "name": "Bagel",
+    "price": 3.20,
+    "image": "https://media.istockphoto.com/id/2192996027/photo/strawberry-jelly-and-cream-cheese-bagel.jpg?s=2048x2048&w=is&k=20&c=oZVh52atz1LfuQmJtYM_ygYCG_ng-jhGIuff6jk2Onw="
+  },
+  {
+    "id": "p03",
+    "name": "Orange Juice",
+    "price": 4.10,
+    "image": "https://media.istockphoto.com/id/175022686/photo/fresh-orange-juice-in-glass-cup-next-to-a-sliced-orange.jpg?s=2048x2048&w=is&k=20&c=G8L5Pq3lZclo4e12cj4dyBJ8CpMtxWCac1NbROksag8="
+  },
+  {
+    "id": "p04",
+    "name": "Croissant",
+    "price": 2.90,
+    "image": "https://media.istockphoto.com/id/1418644931/photo/heap-of-freshly-baked-croissants-in-a-bakery.jpg?s=2048x2048&w=is&k=20&c=iP4i2mO8ZLlRgK_tVb5vJE3VtXqHmkon0j-lg061oug="
+  },
+  {
+    "id": "p05",
+    "name": "Sandwich",
+    "price": 5.50,
+    "image": "https://media.istockphoto.com/id/619637254/photo/two-fresh-submarine-sandwiches.jpg?s=2048x2048&w=is&k=20&c=TNhoBJiJWbBnyS5VvR6xJ0wIBJHKMsOfDZbbKCR0OYs="
+  },
+  {
+    "id": "p06",
+    "name": "Water Bottle",
+    "price": 1.20,
+    "image": "https://media.istockphoto.com/id/494501198/photo/buying-bottle-of-water.jpg?s=2048x2048&w=is&k=20&c=IME26VNEqJwggkMjHo5IPp6eqvvTBJgA2nT4BeVZHfI="
+  },
+  {
+    "id": "p07",
+    "name": "Chocolate Bar",
+    "price": 1.80,
+    "image": "https://media.istockphoto.com/id/186682188/photo/chocolate-bar-with-a-missing-bite-on-white-background.jpg?s=2048x2048&w=is&k=20&c=mR3GmJoeagbi224-hGhdSimFCXSxvBbX9jvWBIbza_Y="
+  },
+  {
+    "id": "p08",
+    "name": "Chips",
+    "price": 2.00,
+    "image": "https://media.istockphoto.com/id/174634598/photo/chips-spilling-out-of-an-open-bag.jpg?s=2048x2048&w=is&k=20&c=3uNblMPF6KSZKd0Zl4ixrKLu_xkkDj_f-uX2_EOqC4U="
+  },
+  {
+    "id": "p09",
+    "name": "Muffin",
+    "price": 2.70,
+    "image": "https://media.istockphoto.com/id/539085530/photo/mini-chocolate-muffins.jpg?s=2048x2048&w=is&k=20&c=XcuoV9VegyJrExYovYNB7yS0OOQnt_wDmXdaU0V6D3I="
+  },
+  {
+    "id": "p10",
+    "name": "Tea",
+    "price": 2.00,
+    "image": "https://media.istockphoto.com/id/1294933580/photo/glass-cup-of-brewed-black-turkish-tea-traditional-hot-drink-concept.jpg?s=2048x2048&w=is&k=20&c=EQ9ZS3TXgd89hl-M3wlJGfy44veEFdGG_5j9MyVy8Yk="
+  },
+  {
+    "id": "p11",
+    "name": "Salad",
+    "price": 6.30,
+    "image": "https://media.istockphoto.com/id/1314475447/photo/beet-or-beetroot-salad-with-fresh-arugula-soft-cheese-and-walnuts-on-plate-dressing-and.jpg?s=2048x2048&w=is&k=20&c=UMqbt3ZU329YVklDFiZ-k7NffjQGOeC4CcOxGQuw0a4="
+  },
+  {
+    "id": "p12",
+    "name": "Soda",
+    "price": 1.50,
+    "image": "https://media.istockphoto.com/id/1189886657/photo/man-pours-a-fizzy-drink-sparkling-water-cool-ice-soft-drink-cola.jpg?s=2048x2048&w=is&k=20&c=F3gacrlDhqrMI0iJ7WaJDCcSZEaQp51-UlxYFUuw000="
+  },
+  {
+    "id": "p13",
+    "name": "Cookie",
+    "price": 1.30,
+    "image": "https://media.istockphoto.com/id/1968539124/photo/chocolate-chip-cookies-on-a-cooling-rack-with-flaky-salt-served-with-milk.jpg?s=2048x2048&w=is&k=20&c=ocBC9_de1j0z2QqjW52nCL0tTWArG7wHQKackDmD-dE="
+  },
+  {
+    "id": "p14",
+    "name": "Yogurt",
+    "price": 2.10,
+    "image": "https://media.istockphoto.com/id/154961211/photo/delicious-homemade-creamy-yoghurt.jpg?s=2048x2048&w=is&k=20&c=IHUT005OhM2Hm91r0IhhWMIpGigK2O7U2xUnRH92M0Q="
+  },
+  {
+    "id": "p15",
+    "name": "Fruit Cup",
+    "price": 3.40,
+    "image": "https://media.istockphoto.com/id/181084437/photo/fresh-fruit-salad-to-go-with-copy-space.jpg?s=2048x2048&w=is&k=20&c=t3LTmpEgJVVxr9-tpjpxmJtMD2WN5pfs4hQaYLCeWGE="
+  },
+  {
+    "id": "p16",
+    "name": "Energy Drink",
+    "price": 3.00,
+    "image": "https://media.istockphoto.com/id/1399238565/vector/illustration-of-energy-drink-cans.jpg?s=2048x2048&w=is&k=20&c=0jw6-PAno5CjSGZ2BYnT9J-K1NBgu37Bw5oSZT6MYXY="
+  },
+  {
+    "id": "p17",
+    "name": "Ice Cream",
+    "price": 2.80,
+    "image": "https://media.istockphoto.com/id/2153490093/photo/three-glasses-of-ice-cream-with-balls-decorated-on-table.jpg?s=2048x2048&w=is&k=20&c=ys8fOgrSBIhuygZJfiLF4q4PbMbcjpZ2q7fF2b1MGEA="
+  },
+  {
+    "id": "p18",
+    "name": "Hot Dog",
+    "price": 4.50,
+    "image": "https://media.istockphoto.com/id/96777273/photo/evolution.jpg?s=2048x2048&w=is&k=20&c=dZ0BfogCEhEljz7qfcYVjSDoBatwtP4pVEIKmWBPMXE="
+  },
+  {
+    "id": "p19",
+    "name": "Burger",
+    "price": 7.20,
+    "image": "https://media.istockphoto.com/id/1309352410/photo/cheeseburger-with-tomato-and-lettuce-on-wooden-board.jpg?s=2048x2048&w=is&k=20&c=wydysVEp52o1ULrj9XWI_f8M2lZ06qm8xlBl6GmjTSQ="
+  },
+  {
+    "id": "p20",
+    "name": "Pizza Slice",
+    "price": 3.80,
+    "image": "https://media.istockphoto.com/id/1337506135/photo/slice-of-pepperoni-pizza-in-hand-isolated-on-white-top-view-on-paperoni-pizza-concept-for.jpg?s=2048x2048&w=is&k=20&c=msrwAkPxgFnts9ygeDNeVQwTYDJS8b8ZsW8-8fTkI1s="
+  }
+]
