@@ -84,3 +84,9 @@ test/
 ├── catalog_bloc_test.dart
 └── cart_bloc_test.dart
 ```
+---
+
+## 👩‍💻 Built by
+
+**Aya Baghdadi**  
+🔗 [YouTube Channel](https://www.youtube.com/channel/UC7554uvArdSxL4tlws7Wf8Q?sub_confirmation=1)
